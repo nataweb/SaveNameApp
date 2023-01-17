@@ -10,6 +10,6 @@ namespace SaveName.API.Data
         {
 
         }
-        public DbSet<PersonData> PersonsData { get; set; }
+        public DbSet<PersonsData> PersonData{ get; set; }
     }
 }

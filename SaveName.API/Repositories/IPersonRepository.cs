@@ -4,6 +4,6 @@ namespace SaveName.API.Repository
 {
     public interface IPersonRepository
     {
-        IEnumerable<PersonData> GetAll();
+        IEnumerable<PersonsData> GetAll();
     }
 }
